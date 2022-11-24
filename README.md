@@ -6,5 +6,6 @@
 本團隊會加入其他Python的套件，協助快速開發聯邦式學習模型與訓練<br>
 
 ### model 範本
-`timm_fastaiCXR-nvflare`: Fastai在dataloader與data transfrom，Timm架設pre-trained模型
+`timm_fastaiCXR-nvflare`
+Fastai在dataloader與data transfrom，Timm架設pre-trained模型。
 
