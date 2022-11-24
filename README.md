@@ -4,4 +4,4 @@
 在開源套件上，Nvidia提供一個架構 https://nvflare.readthedocs.io/en/main/index.html<br>
 在nvidia提供的範本中，已經保有幾種的AI開發套件，如、Pytorch Tensorflow Monai等等。<br>
 本團隊會加入其他Python的套件，協助快速開發聯邦式學習模型與訓練<br>
-1. timm_fastaiCXR-nvflare: Fastai在dataloader與data transfrom，Timm架設pre-trained模型
+# `timm_fastaiCXR-nvflare`: Fastai在dataloader與data transfrom，Timm架設pre-trained模型
