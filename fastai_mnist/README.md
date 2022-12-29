@@ -22,7 +22,7 @@ poc -n 4
 ./site-4/startup/start.sh
 ```
 
-## Download and copy the fastai_dicom
+## Download and copy the fastai_mnist
 ```
 git clone https://github.com/holiday01/nvflare-model.git
 mkdir ./poc/admin/transfer
