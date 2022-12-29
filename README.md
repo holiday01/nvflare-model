@@ -11,14 +11,14 @@ In this examples were based on Fastai.
 In three exmples, there were different methods for loading data.
 
 `timm_fastaiCXR-nvflare`
-Fastai在dataloader與data transfrom，Timm架設pre-trained模型。
-In this example, we used the Fastai to load and transform data, and the pre-trained model was from the timm.
+Fastai在dataloader與data transfrom，Timm架設pre-trained模型。 <br>
+In this example, we used the Fastai to load and transform data, and the pre-trained model was from the timm. <br>
 
 `fastai_mnist`
-In this example, we used the Fastai to load and transform data, and the pre-trained model was from the timm.
-And, the example used the fastai for training the models and evaluated the global/local models.
+In this example, we used the Fastai to load and transform data, and the pre-trained model was from the timm. <br>
+And, the example used the fastai for training the models and evaluated the global/local models. <br>
  
 
 `fastai_dicom`
-In this example, we used the Fastai to load and transform data, and the pre-trained model was from the timm.
-And, the example used the fastai for training the models and evaluated the global/local models. 
+In this example, we used the Fastai to load and transform data, and the pre-trained model was from the timm. <br>
+And, the example used the fastai for training the models and evaluated the global/local models.  <br>
