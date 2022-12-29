@@ -5,7 +5,20 @@
 在nvidia提供的範本中，已經保有幾種的AI開發套件，如、Pytorch Tensorflow Monai等等。<br>
 本團隊會加入其他Python的套件，協助快速開發聯邦式學習模型與訓練<br>
 
-### model 範本
+
+## The examples were modified cifar10 example from https://github.com/NVIDIA/NVFlare/tree/2.1/examples/cifar10
+In this examples were based on Fastai.
+In three exmples, there were different methods for loading data.
+
 `timm_fastaiCXR-nvflare`
 Fastai在dataloader與data transfrom，Timm架設pre-trained模型。
+In this example, we used the Fastai to load and transform data, and the pre-trained model was from the timm.
 
+`fastai_mnist`
+In this example, we used the Fastai to load and transform data, and the pre-trained model was from the timm.
+And, the example used the fastai for training the models and evaluated the global/local models.
+ 
+
+`fastai_dicom`
+In this example, we used the Fastai to load and transform data, and the pre-trained model was from the timm.
+And, the example used the fastai for training the models and evaluated the global/local models. 
